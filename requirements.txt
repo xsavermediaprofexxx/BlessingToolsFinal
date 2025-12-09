@@ -1,0 +1,7 @@
+streamlit
+requests
+openpyxl
+pillow
+numpy
+piexif
+pandas
